@@ -1,8 +1,130 @@
-lista_de_peliculas=[
-    {"nombre":"Figth Club",
+[
+    {
+    "nombre":"Figth Club",
     "año": "1999",
     "director":"David Fincher",
     "genero":"Suspenso/Drama",
-    "sinopsis":"Fight Club es una película satírica estadounidense de 1999, Norton interpreta al protagonista,\n un hombre común, cuyo nombre no se revela, aburrido con su profesión liberal en la sociedad estadounidense, que funda un club de peleas clandestino con un vendedor de jabones llamado Tyler Durden interpretado por Brad Pitt, y se ve envuelto en una relación con Marla Singer, interpretada por Helena Bonham Carter."}
-    ]
-print(lista_de_peliculas)
+    "foto_referencia":"https://flxt.tmsimg.com/assets/p23069_p_v8_aa.jpg",
+    "sinopsis":"Fight Club es una película satírica estadounidense de 1999, Norton interpreta al protagonista,\n un hombre común, cuyo nombre no se revela, aburrido con su profesión liberal en la sociedad estadounidense, que funda un club de peleas clandestino con un vendedor de jabones llamado Tyler Durden interpretado por Brad Pitt, y se ve envuelto en una relación con Marla Singer, interpretada por Helena Bonham Carter."
+    },
+    {
+    "nombre":"Ant-Man",
+    "año":"2015",
+    "director":"Peyton Reed",
+    "genero":" Acción/Ciencia ficción",
+    "foto_referencia":"https://pics.filmaffinity.com/Ant_Man-832468616-large.jpg",
+    "sinopsis":"En Ant-Man, Lang debe ayudar a defender la tecnología de reducción de Pym y planear un robo con ramificaciones globales."
+    },
+    {
+    "nombre":"Shrek 2",
+    "año":"2004",
+    "director":"Andrew Adamson",
+    "genero":"Comedia/Aventura",
+    "foto_referencia":"https://static.wikia.nocookie.net/doblaje/images/0/0a/Shrek2.jpg/revision/latest?cb=20210415201134&path-prefix=es",
+    "sinopsis":"Shrek, nuestro ogro favorito, debe enfrentarse al mayor de los problemas que se podía imaginar: conocer a sus suegros."
+    },
+    {
+    "nombre":"The Maze Runner",
+    "año":"2014",
+    "director":"Wes Ball",
+    "genero":"Acción/Ciencia ficción",
+    "foto_referencia":"https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg",
+    "sinopsis":"Thomas es un adolescente cuya memoria fue borrada y que ha sido encerrado junto a otros chicos de su edad en un laberinto plagado de monstruos y misterios. Para sobrevivir, tendrá que adaptarse a las normas y a los demás habitantes del laberinto."
+    },
+    {
+    "nombre":"Blade Runner 2049",
+    "año":"2017",
+    "director":"Denis Villeneuve",
+    "genero":"Ciencia ficción/Acción",
+    "foto_referencia":"https://pics.filmaffinity.com/blade_runner_2049-681477614-mmed.jpg",
+    "sinopsis":"En el año 2049 el oficial K, un nuevo replicante de la policía de Los Ángeles, emprende la búsqueda del replicante Rick Deckard, desaparecido 30 años antes. K piensa que en Deckard reside la clave que podría permitir salvar a la sociedad del caos en el que está inmersa."
+    },
+    {
+    "nombre":"Ladrón de bicicletas",
+    "año":"1948",
+    "director":"Vittorio De Sica",
+    "genero":"Drama",
+    "foto_referencia":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gone_With_The_Wind_1967_re-release.jpg/380px-Gone_With_The_Wind_1967_re-release.jpg",
+    "sinopsis":"Narra la historia de Antonio Ricci, un hombre en paro en la Roma de posguerra que trata de ganarse la vida colgando carteles de películas."
+    },
+    {
+    "nombre":"El padrino",
+    "año":"1972",
+    "director":"Francis Ford Coppola",
+    "genero":"Crimen/Drama",
+    "foto_referencia":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFnUIGQQtTzUxD9Y19nl3uum8SZA6TSA8eWnJoPy1UdHVF8fDn",
+    "sinopsis":"Su argumento gira entorno a la familia Corleone. Don Vito es el padre, también es un mafioso y uno de los tipos más temidos dentro del crimen organizado. "
+    },
+    {
+    "nombre":"Taxi Driver",
+    "año":"1976",
+    "director":"Martín Scorsese",
+    "genero":"Drama",
+    "foto_referencia":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvG9xLxT7AwHUYLYo2UEl5T2RY5E48stpRp0I9eEI&usqp=CAE&s",
+    "sinopsis":"Taxi driver es una historia de un hombre inmerso en una crisis existencial que trata de luchar en una sociedad caótica e injusta."
+    },
+    {
+    "nombre":"Cinema Paradiso",
+    "año":"1988",
+    "director":"Giuseppe Tornatore",
+    "genero":"Drama",
+    "foto_referencia":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqGB5eunEOGv21WJf0OXXpRJsYHIEgmytHSDHnHLWn3yfxID3",
+    "sinopsis":"Cinema Paradiso es una película que despierta melancolía sobre la infancia, pero también sobre una época en la que el cine era mágico, el único remedio capaz de disfrazar, por un momento, la realidad."
+    },
+    {
+    "nombre":"Forrest Gump",
+    "año":"1994",
+    "director":"Robert Zemeckis",
+    "genero":"Drama/Romance",
+    "foto_referencia":"https://cdn.culturagenial.com/es/imagenes/forrest-gump-pelicula-cke.jpg",
+    "sinopsis":"Forrest Gump es un retrato de la historia de Estados Unidos, desde los años cincuenta a los ochenta, a través de la mirada de un hombre que tiene un coeficiente intelectual de 75."
+    },
+    {
+    "nombre":"Ciudad de Dios",
+    "año":"2002",
+    "director":"Fernando Meirelles",
+    "genero":"Crimen/Drama",
+    "foto_referencia":"https://pics.filmaffinity.com/Ciudad_de_Dios-427152612-large.jpg",
+    "sinopsis":"Mientras algunos niños sueñan con convertirse en los criminales más temidos, Buscapé, el protagonista de esta historia, desea tener un futuro como fotógrafo. "
+    },
+    {
+    "nombre":"En busca de la felicidad",
+    "año":"2006",
+    "director":"Gabriele Muccino",
+    "genero":"Drama",
+    "foto_referencia":"https://www.exitopersonal.com/imagenes/pelicula-del-mes-en-busca-de-la-felicidad_x2.jpg",
+    "sinopsis":"Narra la historia de Chris Garder un hombre cuyo trabajo no le ayuda a cubrir sus necesidades básicas ni las de su hijo. Un día son desahuciados y no les queda otro remedio que deambular sin un lugar estable y tratar de superar las adversidades."
+    },
+    {
+    "nombre":"Doce años de esclavitud",
+    "año":"2013",
+    "director":"Steve McQueen",
+    "genero":"Drama",
+    "foto_referencia":"https://cdn.culturagenial.com/es/imagenes/12-anos-esclavitud-pelicula-cke.jpg",
+    "sinopsis":"La cinta está basada en hechos reales y giran en torno a Solomon Northup un hombre negro que trabaja como violinista en Nueva York. Un día es drogado, secuestrado y vendido como esclavo. A pesar de su calvario, Solomon lucha cada día durante doce años por conseguir la libertad y por sobrevivir con la esperanza de volver a ver a su familia."
+    },
+    {
+    "nombre":"El cadáver de la novia",
+    "año":"2005",
+    "director":"Tim Burton",
+    "genero":"Fantasía/Infantil",
+    "foto_referencia":"https://pics.filmaffinity.com/La_novia_cad_ver-106734407-large.jpg",
+    "sinopsis":" La historia está ambientada en la Época Victoriana y gira entorno a Victor, un joven pianista que se casa por error con una mujer muerta cuando está a punto contraer matrimonio con la aristócrata Victoria."
+    },
+    {
+    "nombre":"Ratatuille",
+    "año":"2007",
+    "director":"Brad Bird",
+    "genero":"Fantasía/Infantil",
+    "foto_referencia":"https://cdn.culturagenial.com/es/imagenes/ratatouille-pelicula-cke.jpg",
+    "sinopsis":"Remy es una rata que desea convertirse en chef, a pesar de la negativa de su familia. Pronto iniciará un viaje por el subsuelo parisino que la llevará a uno de los restaurantes más famosos de la capital francesa. Allí hará de su sueño su profesión y se convertirá en un hito de los fogones."
+    },
+    {
+    "nombre":"Up",
+    "año":"2009",
+    "director":"Pete Docter",
+    "genero":"Fantasía/Infantil",
+    "foto_referencia":"https://cdn.culturagenial.com/es/imagenes/up-pelicula-cke.jpg",
+    "sinopsis":"Carl es un anciano que ve cumplido su deseo de toda la vida, el de viajar a América del Sur. Para ello amarra globos llenos de helio a su casa, con el fin de poder volar. Cuando empieza su aventura descubre que Rusell, un entrañable niño de 8 años, también lo acompañará en su hazaña."
+    }
+]

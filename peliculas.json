@@ -1,0 +1,8 @@
+lista_de_peliculas=[
+    {"nombre":"Figth Club",
+    "año": "1999",
+    "director":"David Fincher",
+    "genero":"Suspenso/Drama",
+    "sinopsis":"Fight Club es una película satírica estadounidense de 1999, Norton interpreta al protagonista,\n un hombre común, cuyo nombre no se revela, aburrido con su profesión liberal en la sociedad estadounidense, que funda un club de peleas clandestino con un vendedor de jabones llamado Tyler Durden interpretado por Brad Pitt, y se ve envuelto en una relación con Marla Singer, interpretada por Helena Bonham Carter."}
+    ]
+print(lista_de_peliculas)
